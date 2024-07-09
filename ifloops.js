@@ -46,3 +46,7 @@ schools.push("ii");
 console.log(schools);
 schools.pop(); // remove from end
 console.log(schools);
+
+for (let i = 0; i < schools.length; i++){
+    console.assert.log(schools[i])
+}
