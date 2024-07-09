@@ -50,3 +50,11 @@ console.log(schools);
 for (let i = 0; i < schools.length; i++){
     console.assert.log(schools[i])
 }
+
+// Objects (like dictionaries in python)
+let person = {
+    firstName: "Shawn",
+    lastName: "Adams",
+    age: 17,
+    isStudent: true
+};
